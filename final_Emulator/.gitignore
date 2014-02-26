@@ -1,0 +1,6 @@
+bin
+ic_launcher-web.png
+libs
+src/**/*.swp
+gen
+assets

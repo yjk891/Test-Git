@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    
+    
+    <string-array name="bluetooth">
+        <item> </item>
+    </string-array>
+      <string-array name="select">
+		<item > </item>
+         <item>Command_KEY</item>
+        <item>Number_KEY</item>
+        <item>Character_KEY</item>
+         </string-array>
+    
+    <string-array name="command">
+        <item > </item>
+        <item>HOME</item>
+        <item>BACK</item>
+        <item>CALL</item>
+        <item>END CALL</item>
+        <item>CAMERA</item>
+        <item>POWER</item>
+        <item>CLEAR</item>
+    </string-array>
+
+    <string-array name="number">
+        <item > </item>
+        <item>KEY_0</item>
+        <item>KEY_1</item>
+        <item>KEY_2</item>
+        <item>KEY_3</item>
+        <item>KEY_4</item>
+        <item>KEY_5</item>
+        <item>KEY_6</item>
+        <item>KEY_7</item>
+        <item>KEY_8</item>    
+        <item>KEY_9</item>
+       
+    </string-array>
+       <string-array name="character">
+           <item > </item>
+        <item>KEY_A</item>
+        <item>KEY_B</item>    
+        <item>KEY_C</item>
+        <item>KEY_D</item>
+        <item>KEY_D</item>
+        <item>KEY_F</item>    
+        <item>KEY_G</item>
+        <item>KEY_H</item>
+        <item>KEY_I</item>
+        <item>KEY_J</item>    
+        <item>KEY_K</item>
+        <item>KEY_L</item>
+        <item>KEY_M</item>
+        <item>KEY_N</item>    
+        <item>KEY_O</item>
+        <item>KEY_P</item>
+        <item>KEY_Q</item>
+        <item>KEY_R</item>    
+        <item>KEY_X</item>
+        <item>KEY_T</item>
+        <item>KEY_U</item>
+        <item>KEY_V</item>    
+        <item>KEY_W</item>
+        <item>KEY_X</item>
+        <item>KEY_Y</item>
+        <item>KEY_Z</item>    
+     
+    </string-array>
+</resources> 
+    
+
